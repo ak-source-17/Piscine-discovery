@@ -1,0 +1,22 @@
+<style>
+    table, th, td {
+        left: 0%;
+        right:0%;
+        width: 100%;
+        border: 1px solid;
+        border-collapse: collapse;
+        height: 100%; 
+        table-layout: fixed;
+     }
+
+    .cell2 {
+            background-color: rgb(48, 91, 97);
+            color: rgb(22, 19, 15);
+        }
+
+    .cell1 {
+        background-color: rgb(187, 108, 63);
+        color: rgb(27, 24, 20);
+    }
+
+</style>

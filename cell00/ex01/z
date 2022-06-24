@@ -1,0 +1,6 @@
+cd ex01 
+z
+ls
+cd ex01
+cat > z
+ls

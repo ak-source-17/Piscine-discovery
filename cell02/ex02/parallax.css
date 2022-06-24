@@ -1,0 +1,62 @@
+html, body {
+    margin: 0;
+}
+    .parallax {
+      /* The image used */
+      background-image: url("plastic.jpeg"); 
+    
+      /* Set a specific height */
+      min-height: 50px; 
+    
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      border-top: 0px;
+    }
+    
+    
+    
+    .t1 {
+        color: aliceblue;
+        text-align: center;
+        font-size: xx-large;
+        position: static;
+    
+    }
+    
+    .container { background-image: url("pic2.webp");
+        position: static;
+        width: 100%;
+        text-align: center;
+        color:rgb(246, 255, 0);
+        padding-top: 500px;
+        height: 100%;
+        font-size:xx-large;
+        display: flex;
+        flex-direction:column;
+        justify-content: center;
+        background-attachment: fixed;
+    }
+    
+    .topimg { 
+        /*background-image: url(plastic.jpeg);*/
+        position: static;
+        width: 100%;
+        text-align: center;
+        color:rgb(246, 255, 0);
+        height: 100%;
+        font-size:xx-large;
+        display: flex;
+        flex-direction:column;
+        justify-content: center;
+    
+    
+    }
+    
+    .texte {
+        margin-top: 20%;
+    }
+    
+    
